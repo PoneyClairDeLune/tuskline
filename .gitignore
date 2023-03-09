@@ -1,0 +1,10 @@
+*.swp
+.pnp.*
+*.lock
+#package-lock.json
+/dist/*.map
+/proxy/*
+/lib/*
+/node_modules/*
+/src/vendor/*
+/.yarn/*
